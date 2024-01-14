@@ -6,4 +6,4 @@ const circle={
     }
 }
 
-console.log(circle.getDiameter());
+console.log(circle.getDiameter()); //10
