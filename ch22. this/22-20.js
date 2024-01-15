@@ -13,4 +13,5 @@ console.log(getthisbinding.apply(thisArg,[1,2,3]))
 
 //call 메서드는 호출한 함수의 인수를 쉼표로 구분한 리스트 형식으로 전달
 console.log(getthisbinding.call(thisArg,1,2,3))
-//
+//[Arguments] { '0': 1, '1': 2, '2': 3 } { a: 1 }
+

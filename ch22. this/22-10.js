@@ -12,4 +12,4 @@ const obj={
     }
 }
 
-// obj.foo();
+obj.foo();
